@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8109" started-at="2020-05-28T08:54:37 IST" finished-at="2020-05-28T08:54:45 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8109" started-at="2020-05-28T08:54:37 IST" finished-at="2020-05-28T08:54:45 IST">
+      <class name="SS.HandleCalende">
+        <test-method status="PASS" signature="HandleCalederMethod()[pri:0, instance:SS.HandleCalende@4e9ba398]" name="HandleCalederMethod" duration-ms="8068" started-at="2020-05-28T08:54:37 IST" finished-at="2020-05-28T08:54:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HandleCalederMethod -->
+      </class> <!-- SS.HandleCalende -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
